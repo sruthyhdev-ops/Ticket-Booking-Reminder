@@ -22,8 +22,6 @@ Ticket Booking Reminder is a lightweight, privacy-focused utility designed for I
 | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/sreeju/Ticket-Booking-Reminder/main/screen1.png" width="200"> | <img src="https://raw.githubusercontent.com/sreeju/Ticket-Booking-Reminder/main/screen2.png" width="200"> | <img src="https://raw.githubusercontent.com/sreeju/Ticket-Booking-Reminder/main/screen3.png" width="200"> | <img src="https://raw.githubusercontent.com/sreeju/Ticket-Booking-Reminder/main/screen4.png" width="200"> |
 
-*(Note: Replace the image links above with your actual cropped screenshot files once you upload them to this repo.)*
-
 ---
 
 ## 🛡️ Privacy Policy
