@@ -20,7 +20,7 @@ Ticket Booking Reminder is a lightweight, privacy-focused utility designed for I
 
 | Home & Calculator | Settings & Alarms | Ticket Vault | Saved Routes |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/sruthyhdev-ops/Ticket-Booking-Reminder/blob/main/1.png" width="200"> | <img src="https://github.com/sruthyhdev-ops/Ticket-Booking-Reminder/blob/main/2.png" width="200"> | <img src="https://github.com/sruthyhdev-ops/Ticket-Booking-Reminder/blob/main/3.png" width="200"> | <img src="https://github.com/sruthyhdev-ops/Ticket-Booking-Reminder/blob/main/4.png" width="200"> |
+| <img src="./1.png" width="200"> | <img src="./2.png" width="200"> | <img src="./3.png" width="200"> | <img src="./4.png" width="200"> |
 
 ---
 
