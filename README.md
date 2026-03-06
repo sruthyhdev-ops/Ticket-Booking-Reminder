@@ -36,7 +36,7 @@ Ticket Booking Reminder is built as a Free app. This SERVICE is provided at no c
 * **Permissions:** The app may request notification permissions to provide booking alerts. It does not require location, contact, or camera access.
 
 ### Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **contact_zmohi@aol.com**.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **sruthyh.dev@gmail.com**.
 
 ---
 
