@@ -44,3 +44,8 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 * **Kotlin & Jetpack Compose**
 * **Material Design 3 (Railway Blue Theme)**
 * **Local SQLite Storage**
+
+* ## ⚖️ Disclaimer & Limitation of Liability
+* **Non-Affiliation:** This app is NOT an official app of IRCTC or Indian Railways. We have no official relationship with these entities.
+* **No Guarantee:** This app is a reminder tool only. We do not guarantee successful ticket bookings. The developer shall not be held liable for any missed bookings, financial losses, or travel delays resulting from the use or failure of this application.
+* **Local Processing:** All data and reminders are processed locally on your device. We are not responsible for reminders failing due to device-specific battery optimizations or notification restrictions on systems.
