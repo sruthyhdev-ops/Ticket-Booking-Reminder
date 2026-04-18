@@ -35,6 +35,15 @@ Ticket Booking Reminder is built as a Free app. This SERVICE is provided at no c
 * **Local Storage:** All journey dates, ticket files, and route information are stored locally on your device. This data is never transmitted to any external server.
 * **Permissions:** The app may request notification permissions to provide booking alerts. It does not require location, contact, or camera access.
 
+* Third-Party Services: Advertising This app uses Google AdMob to display advertisements. AdMob may collect and use certain data to show personalized or non-personalized ads to you. This data may include:
+Advertising ID: A unique, user-resettable ID for advertising, provided by Google Play services.
+
+Device Information: Model, OS version, and connection type.
+
+Cookies and Usage Data: Information on how you interact with ads within the app.
+
+For more information on how Google uses your data, please visit: Google’s Advertising Privacy & Terms
+
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **sruthyh.dev@gmail.com**.
 
